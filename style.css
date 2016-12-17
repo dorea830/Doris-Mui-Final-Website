@@ -7,7 +7,7 @@ p {
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 3rem;
 	position: absolute;
-	top: 32%;
+	top: 40%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
